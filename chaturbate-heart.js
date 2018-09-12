@@ -1,4 +1,4 @@
-import {PolymerElement, html} from '@polymer/polymer';
+import { PolymerElement, html } from '@polymer/polymer/polymer-element.js';
 import '@polymer/iron-icons/iron-icons.js';
 
 class ChaturbateHeart extends PolymerElement {
