@@ -202,6 +202,4 @@ class ChaturbateHeart extends PolymerElement {
 
 }
 
-if (!customElements.get('chaturbate-heart')) {
-    customElements.define('chaturbate-heart', ChaturbateHeart);
-}
+customElements.define('chaturbate-heart', ChaturbateHeart);
